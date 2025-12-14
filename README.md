@@ -69,9 +69,6 @@ Siga os passos abaixo para rodar este portfólio em sua máquina:
 ## 👨‍💻 Desenvolvedor
 
 **João Victor**
-* **LinkedIn:** [Seu link do LinkedIn]
-* **GitHub:** [Seu link do GitHub]
-* **Instagram:** [Seu link do Instagram]
 
 ---
 
